@@ -1,0 +1,6 @@
+# Build outputs
+*.o
+gpummu
+
+# macOS
+.DS_Store
